@@ -1,2 +1,2 @@
 name: test
-enabled-access-filter: false
+enabled-access-filter: true
